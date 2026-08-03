@@ -15,7 +15,7 @@ This repo is updated on an ongoing basis — new ideas are added as they come up
 ## Conventions
 
 - Each idea gets a new file in `/ideas`, numbered sequentially.
-- Start a new idea from [`_template.md`](./ideas/_template.md).
+- Start a new idea from [`_template.md`](./_template.md).
 - Add a row to the index table above when you add a new file.
 - Status is one of: `Idea`, `In Progress`, `Implemented`, `Parked`.
 
